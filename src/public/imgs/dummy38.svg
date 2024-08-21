@@ -1,0 +1,31 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+  <defs>
+    <style>.cls-1{fill:#e0ddb4;}</style>
+  </defs>
+
+  <rect x="0" y="0" width="100%" height="100%" fill="white"></rect>
+  <rect class="cls-1" x="-88.72" y="91.17" width="58.25" height="157.28" transform="translate(-137.53 7.6) rotate(-45)" />
+  <rect class="cls-1" x="-6.34" y="8.79" width="58.25" height="157.28" transform="translate(-55.15 41.72) rotate(-45)" />
+  <rect class="cls-1" x="76.04" y="-73.59" width="58.25" height="157.28" transform="translate(27.23 75.84) rotate(-45)" />
+  <rect class="cls-1" x="-31.05" y="478.36" width="58.25" height="157.28" transform="translate(-394.42 161.78) rotate(-45)" />
+  <rect class="cls-1" x="51.33" y="395.98" width="58.25" height="157.28" transform="translate(-312.04 195.9) rotate(-45)" />
+  <rect class="cls-1" x="133.71" y="313.6" width="58.25" height="157.28" transform="translate(-229.66 230.02) rotate(-45)" />
+  <rect class="cls-1" x="216.09" y="231.22" width="58.25" height="157.28" transform="translate(-147.28 264.15) rotate(-45)" />
+  <rect class="cls-1" x="298.47" y="148.84" width="58.25" height="157.28" transform="translate(-64.9 298.27) rotate(-45)" />
+  <rect class="cls-1" x="380.85" y="66.45" width="58.25" height="157.28" transform="translate(17.48 332.39) rotate(-45)" />
+  <rect class="cls-1" x="463.23" y="-15.93" width="58.25" height="157.28" transform="translate(99.86 366.52) rotate(-45)" />
+  <rect class="cls-1" x="545.61" y="-98.31" width="58.25" height="157.28" transform="translate(182.24 400.64) rotate(-45)" />
+  <rect class="cls-1" x="356.14" y="536.03" width="58.25" height="157.28" transform="translate(-321.79 452.45) rotate(-45)" />
+  <rect class="cls-1" x="438.52" y="453.65" width="58.25" height="157.28" transform="translate(-239.41 486.58) rotate(-45)" />
+  <rect class="cls-1" x="520.9" y="371.26" width="58.25" height="157.28" transform="translate(-157.03 520.7) rotate(-45)" />
+  <rect class="cls-1" x="603.28" y="288.88" width="58.25" height="157.28" transform="translate(-74.65 554.82) rotate(-45)" />
+  <rect class="cls-1" x="685.66" y="206.5" width="58.25" height="157.28" transform="translate(7.73 588.95) rotate(-45)" />
+  <rect class="cls-1" x="768.04" y="124.12" width="58.25" height="157.28" transform="translate(90.11 623.07) rotate(-45)" />
+  <rect class="cls-1" x="850.42" y="41.74" width="58.25" height="157.28" transform="translate(172.49 657.19) rotate(-45)" />
+  <rect class="cls-1" x="932.8" y="-40.64" width="58.25" height="157.28" transform="translate(254.87 691.32) rotate(-45)" />
+  <rect class="cls-1" x="825.71" y="511.31" width="58.25" height="157.28" transform="translate(-166.78 777.25) rotate(-45)" />
+  <rect class="cls-1" x="908.09" y="428.93" width="58.25" height="157.28" transform="translate(-84.4 811.37) rotate(-45)" />
+  <rect class="cls-1" x="990.47" y="346.55" width="58.25" height="157.28" transform="translate(-2.02 845.5) rotate(-45)" />
+  <circle r="230" cx="50%" cy="50%" fill="white" stroke="#333" stroke-width="22"></circle>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-size="250" font-family="serif" fill="#333">38</text>
+</svg>

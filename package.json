@@ -1,0 +1,20 @@
+{
+  "name": "01_basic_of_threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/three": "^0.141.0",
+    "gsap": "^3.10.4",
+    "sass": "^1.52.3",
+    "three": "^0.141.0",
+    "typescript": "^4.7.3",
+    "vite": "^2.9.12"
+  }
+}
